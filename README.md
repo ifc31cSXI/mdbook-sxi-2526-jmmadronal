@@ -48,7 +48,7 @@ En aquestes instruccions es descriuran les passes per instal·lar mdBook, crear 
 8. Generar i veure el llibre.
    ```bash
    mdbook build   # genera el llibre a /book
-   mdbook serve   # inicia un servidor local (http://localhost:3000)
+   if    # inicia un servidor local (http://localhost:3000)
    ```
 9. Comprovar el contingu del llibre.
 10. Fer un commit i push.
