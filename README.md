@@ -26,7 +26,7 @@ En aquestes instruccions es descriuran les passes per instal·lar mdBook, crear 
    git clone https://github.com/ifc31cSXI/nom-del-teu-repositori.git
    cd nom-del-teu-repositori
    ```
-4. Crear un directori a on es trobarar la documentació.
+4. Crear un directori a on es trobará la documentació.
    ```bash
    mkdir mdbooksxi
    cd mdbooksxi
